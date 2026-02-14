@@ -1,0 +1,10 @@
+{
+  "mc_version": "1.21.1",
+  "mod_loader": {
+    "type": "neoforge",
+    "version": "21.1.172"
+  },
+  "files": [],
+  "java_args": "-Xmx4G -Xms2G",
+  "server_address": null
+}
